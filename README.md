@@ -14,8 +14,3 @@ Hi! I'm Tjark Kühl, an experienced frontend developer passionate about clean co
 
 ## 🌟 About Me
 I stay up-to-date with the latest trends in web development and am always open to new challenges. My goal is to create innovative and user-friendly solutions that make an impact.  
-
-## 📬 Contact
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/tjark-kuehl))  
-
-Looking forward to exciting projects and connecting with the developer community! 🚀
