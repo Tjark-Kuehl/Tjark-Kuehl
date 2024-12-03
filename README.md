@@ -1,4 +1,4 @@
-# 👨‍💻 Tjark Kühl – Frontend Developer with a Focus on Vue.js & User Interfaces
+# 👨‍💻 Frontend Developer with a Focus on Vue.js & User Interfaces
 
 Hi! I'm Tjark Kühl, an experienced frontend developer passionate about clean code and intuitive design. With **Vue.js** and **JavaScript**, I build user interfaces that not only work but also deliver a great experience. 🎨✨  
 
